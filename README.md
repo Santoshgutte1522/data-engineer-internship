@@ -5,7 +5,7 @@ Work for the 8-week Data Engineer Internship, Oct to Dec 2026.
 | Task | Topic | Folder |
 |------|-------|--------|
 | 1 | Data Science Fundamentals Assessment | [Task1_Fundamentals](Task1_Fundamentals) |
-| 2 | Hands-On Data Lab Implementation | coming soon |
+| 2 | Hands-On Data Lab Implementation | [Task2_Data_Lab](Task2_Data_Lab) |
 | 3 | Real-World Dataset Analysis Project | coming soon |
 | 4 | Data Science Tool Mastery Project | coming soon |
 | 5 | Analytics Report and Insights Documentation | coming soon |
